@@ -1,0 +1,54 @@
+header {
+	margin-bottom:30px;
+}
+
+.navbar-default {
+    background-color: #800020;
+    border-color: #4A79A5;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #fff;
+}
+
+.byline {
+  font-size: 0.8em;
+}
+
+.navbar-nav {
+    margin-top: 15px;
+    font-weight: 800;
+
+}
+.navbar-brand {
+  font-size: 1.8em;
+    font-weight: 800;
+    color: #fff;
+}
+.navbar-header {
+margin-top: 15px;
+    color: #fff;
+}
+
+.navbar {
+  min-height: 80px;
+}
+
+.sponsor, .sponsor1 {
+text-align: center;
+    font-weight: bold;
+margin-top: 12px;
+margin-bottom: 10px;
+}
+
+#leftCol h3 {
+text-align: center;
+color: #4A79A5;
+}
+
+#sec0 {
+color: #4A79A5;
+}
+
+.sponsor1 {
+margin-top: 25px;
+margin-top: 25px;
+}

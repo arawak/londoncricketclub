@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta charset="utf-8">
+
+    <title>London Cricket Club</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name=
+    "viewport">
+    <link href='http://fonts.googleapis.com/css?family=Changa+One|Merriweather:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.min.css" rel="stylesheet"><!--[if lt IE 9]>
+            <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+    <header class="navbar navbar-default navbar-static-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+<span class="sr-only">Toggle navigation</span></button> 
+<a class="navbar-brand" href="/" style="color: white;">London Cricket Club</a>
+            </div>
+
+            <nav class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="#kids">Kids Cricket</a></li>
+                    <li><a href="#membership">Membership</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header><!-- Begin Body -->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3" id="leftCol">
+                <h3>Our Sponsors</h3>          
+                <div class="sponsor">
+<a href="http://www.cibcwg.com/web/okanskifinancialgroup"><img src="img/okanski.jpg" /></a>
+                </div>
+                <div class="sponsor">
+<a href="http://www.nicholsonsheffield.ca">
+<img src="img/nsa.jpg" alt="Nicholson Sheffield Architects" /></a>
+                </div>
+                <div class="sponsor1">
+<a href="http://www.ago1.com/"><img src="img/ago.jpg" /></a>
+                </div>
+
+                <div class="sponsor">
+<a href="http://noteworthywines.ca"><img src="img/noteworthy.png" /></a>
+                </div>
+
+                <div class="sponsor">
+<a href="http://rajafinedining.ca/london/home.php"><img src="img/rajalondon.gif" /></a>
+                </div>
+            </div>
+
+            <div class="col-md-9">
+                <h2 id="sec0">Over 100 years of cricket in London Ontario</h2>
+<p>London Cricket has its roots in the British Garrison stationed in London starting in 1838. Over the years the club has had many homes, including Tecumseh Park, Fanshawe Park, the London Psychiatric Hospital grounds, Maitland Park, and most recently th North London Athletic Fields.</p>
+<p>We play competitive and friendly cricket in southwestern Ontario throughout the summer. New members welcome!</p>
+                <p>Practices are held every Thursday (weather permitting) at the North London Athletic Fields, starting at 6pm. Matches are played on weekends, typically starting at 1pm.</p>
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h3>Season opener &mdash; May 31</h3>
+                            </div>
+
+                            <div class="panel-body">
+
+<h3>LONDON CRICKET CLUB vs CAMBRIDGE</h3>
+<p>
+Watch our season opening display of Cricket. 
+Ideal for families and cricket lovers!
+</p>
+<p>
+Date: May 31, 2014<br />
+Time: Between 1.00 and 6.00 PM<br />
+Location: North London Athletic Fields (Adelaide/Windermere) <br />
+
+Check out our brand new facility.
+<p>
+Ticket Costs: $10<br/>
+Lunch Included!
+</p>
+<p>
+Proceeds will be donated equally to:
+Prostate Cancer Canada, CIBC Run for Cure and The United Way!
+</p>
+<p>
+For tickets contact us at: londoncricketclub@mitchwood.com or call: 
+226-456-2929, 519-421-1387 or 226-235-4219
+</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+<h3>New ground open!</h3>
+<p>Practices and matches have now moved from Maitland Park to the new facility at the North London Athletic Fields.</p>
+                    </div>
+                </div>
+                <hr>
+<a name="membership"></a>
+                <h2 id="sec2">Membership</h2>
+<p>Whether you want to play league, or just social cricket, or a bit of both, we would love to have you on board.</p>
+                    <h3>Dues for 2014</h3>
+
+<p>Full membership is $150 for most players. Students pay $100 and juniors (under 16 years) pay $75. We also have an 'Elite' membership for $180 -- Elite members are invited to all Executive meetings, and can participate in the decision making process and shape the club's s future.</p>
+
+<p>
+For each home game played, there will be a non-optional tea fees for preparation of lunch for both home and away teams. Cost of $5 - this is paid on day of game.
+</p>
+<p>
+Half the membership dues should be paid by the first game: the remainder is due by mid May.
+Payment can be made to me by arrangement or during practice. Cheques should be made payable to London Cricket Club.
+</p>
+<p>
+Please note that there will be no proration of membership dues for past and current members. In addition, each member is expected to share in the workload of the club and prepare tea at least once for a visiting team during the season. Any outstanding membership dues and game fees from previous seasons must be paid before your 2014 membership dues.
+</p>
+
+
+                <hr>
+<a name="kids"></a>
+                <h2 id="sec3">Kids Cricket</h2>
+                  <p>
+London Cricket Club is running kids cricket (boys and girls up to age 12) on Wednesday evenings at Maitland Park from 6pm-7:30pm. 
+</p>
+<p>Sessions start on May 14th and run for 10 weeks. Cost is $50, payment by cheque or cash on first session.
+No cricket experience required, all equipment will be provided.
+To register email us at londoncricketclub@mitchwood.com or call 519-421-1387.
+</p>
+<a name="contact"></a>
+                <h2 id="sec4">Contact Us</h2>
+                <section id="google"  class="span12">
+                    <div class="view-first">
+                        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.ca/maps/ms?msid=208274594312125817824.0004dbb33281416bf97ec&amp;msa=0&amp;ll=43.018282,-81.249819&spn=0.013822,0.018475&amp;output=embed"></iframe>
+                    </div>
+                </section>
+                <section id="page-title" class="span12">
+                    <p>Our ground is at the back of the North London Athletic Fields at Adelaide and Kipps Lane. We're there every Thursday evening, and many weekend afternoons.</p>
+                    <hr>
+                </section>
+                <section id="content" class="span3">
+                    <h3 class="comment-title">Email</h3>
+                    <p class="email">londoncricketclub@mitchwood.com</p>
+                </section>
+                <hr>
+            </div>
+        </div>
+    </div><!-- script references -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script><script src="js/bootstrap.min.js">
+    </script>
+    <script src="js/scripts.js"></script>
+</body>
+</html>

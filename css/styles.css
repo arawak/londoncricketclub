@@ -1,0 +1,58 @@
+body {
+font-family: 'Merriweather', serif;
+}
+
+header {
+    margin-bottom:30px;
+    font-family: 'Changa One', cursive;
+}
+
+.navbar-default {
+    background-color: #800020;
+    border-color: #4A79A5;
+    border-bottom-width: 7px;
+    font-family: 'Changa One', cursive;
+    color: #fff;
+}
+
+.byline {
+  font-size: 0.8em;
+}
+
+.navbar-nav {
+    margin-top: 15px;
+
+}
+.navbar-brand {
+  font-size: 2em;
+    font-weight: 400;
+}
+.navbar-header {
+margin-top: 15px;
+    color: #fff;
+}
+
+.navbar {
+  min-height: 80px;
+}
+
+.sponsor, .sponsor1 {
+text-align: center;
+    font-weight: bold;
+margin-top: 12px;
+margin-bottom: 10px;
+}
+
+#leftCol h3 {
+text-align: center;
+color: #4A79A5;
+}
+
+#sec0 {
+color: #4A79A5;
+}
+
+.sponsor1 {
+margin-top: 25px;
+margin-top: 25px;
+}
