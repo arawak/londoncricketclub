@@ -2,15 +2,28 @@
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
+  annotations:
+    acme.cert-manager.io/http01-edit-in-place: "true"
+    cert-manager.io/cluster-issuer: letsencrypt-production
+    cert-manager.io/issue-temporary-certificate: "true"
+  labels:
   name: lcc
+  namespace: lcc
 spec:
+  ingressClassName: public
   rules:
-  - http:
+  - host: londoncricketclub.ca
+    http:
       paths:
-      - path: /
-        pathType: Prefix
-        backend:
+      - backend:
           service:
             name: lcc
             port:
-              number: 80
+                    number: 80
+        path: /
+        pathType: ImplementationSpecific
+  tls:
+  - hosts:
+    - londoncricketclub.ca
+    secretName: lcc-tls
+
