@@ -1,0 +1,66 @@
+LCC won the toss and elected to bowl.
+
+BCC batting
+Bat          Out/ Bowler        Runs/Balls
+
+Harry       B /Hareen              09   /  ??
+Gurej        CT  /Hareen          14   /  ??
+Gagan       CT /Siva              29   /  ??
+Sunny        CT /Hareen         00   /  01
+Prat           B / Hareen           00  /  ?? 
+Sukhi       B /Manish             07   /  ??
+Sakhyam  CT /Richie            26   /  ??
+Karan      LBW  /Siva            01  /  ??
+Inder        CT  /Richie           05  /  ??
+Sunil             Not out             04  /  ??
+Arun         B /Richie               10  /  ??
+
+                   Wides           17
+                   No-balls       05
+                   L-byes          06
+                     Byes           03
+         BCC   all out for    136
+
+LCC bowling 
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Manish      05    /00 /00 /02 / 36 / 01
+Kevin         04    /00 /00 /04 / 20 / 00
+Hareen      06    /00 /00 /07 / 18 / 04
+Richard     05    /00 /01 /01 / 20 / 00
+Siva           04    /00 /05 /02 / 16 / 02
+Richie        5.4   /00 /00 /00 / 18 / 03
+
+LCC batting
+Bat          Out/ Bowler        Runs/Balls
+
+Pawha     CT  /Harry           00  /  03
+Yaswanth   CT / Sunil         01  /  03
+Chinthan  LBW / Sunil        02  /  17
+Richard    CT / Sunil           00  /  01
+Richie       Not Out              37  /  60
+Rajath     CT / Gagan          01  /  12
+Kevin      B  / Gurtej            00  /  02
+Hareen   LBW / gagan        02  /  05
+Puneet   B  / Gagan            48  /  52
+Siva        Run Out               00  /  04
+Faizan      B / Gagan           00  /  03
+
+                    Wides           22
+                    N-balls          01
+                    L-byes          02
+                     Byes            01
+         LCC (27.3overs)     125/ 10
+
+BCC bowling 
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Harry         04    /00 /00 /02 / 17 / 01
+Sunil          06   /00 /00 /03 / 10 / 03
+Gurtej        06   /00 /01 /02 / 28 / 01
+Gagan       4.3   /00 /00 /03/ 20 / 04
+Karman      03   /00 /00 /00 / 08 / 00
+Sukhi         03   /00 /00 /08 / 19 / 00
+
+LCC lost by 12 runs with 2.2 overs left.
+

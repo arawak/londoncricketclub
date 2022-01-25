@@ -1,0 +1,65 @@
+LCC won the toss and elected to bat.
+
+LCC batting
+Bat          Out/ Bowler        Runs/Balls
+
+Suraj      LBW /Surin              14  /  28
+Jerad        CT / Rohith           07   /  23
+Kaleem       B  /Lal                 13   /  17
+Ramiz       B / Azad                03  /  09
+Ram          Run out                17   /  30
+Hareen      Run out                00   /  01
+John     LBW   /Azad              05  /  09
+Rajath      CT /Surin              19   /  18
+Siva           CT  /Siva              04  /  10
+Manish        Not out               01  /  07
+Sean          CT  / Sunil            00  /  02
+
+
+                   Wides           09
+                   No-balls        00
+                   L-byes          05
+                     Byes           01
+         LCC (26.3 overs)   102 / 10
+
+CCCC bowling 
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Surin         06    /00 /00 /01 / 19 / 02
+Rohith       06    /00 /00 /02 / 16 / 01
+Azad         06    /01 /00 /03 / 30 / 02
+Lal             05   /00 /00 /01 / 10 / 01
+Daryl         02    /00 /00 /02 / 13 / 00
+Sunil         3.3   /00 /00 /02 / 08 / 01
+
+CCCC batting
+Bat          Out/ Bowler        Runs/Balls
+
+Azad           B / Manish        06  /  18
+Daryl       CT  / manish         02  /  03
+Lal           CT / Jerad            01  /  07
+Marvin           Not out          14  /  46
+Surin        CT / Jerad           13  /  17
+Rohith      CT / Hareen         01  /  03
+Fehhod  LBW / Hareen        00  /  03
+Sankar      B  / Nawab         40  /  28
+Denis            Not out           04  /  01
+Siva              DNB
+???               DNB
+
+                    Wides           14
+                    N-balls          04
+                    L-byes          00
+                     Byes            05
+      CCCC (22 overs)     103 / 7
+
+LCC bowling 
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Manish       06    /00 /01 /05 / 14 / 02
+Jerad          06   /00 /00 /01 / 19 / 02
+Hareen       03   /01 /03 /02 / 13 / 02
+John           03   /00 /00 /02 / 19 / 00
+Siva           02    /00 /00 /03 / 15 / 00
+Nawab       02   /00 /00 /01 / 17 / 01
+

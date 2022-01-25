@@ -1,0 +1,57 @@
+London Cricket Club
+York C.C. v London C.C.
+June 6, 2015
+
+result: York won by 82 runs
+
+Innings of York C.C.
+                                 Runs  4  6
+Lucky        c Laurence  Siva     36    
+Raj          bowled      Nawab     7      
+Jay          c Siva      Nawab     7       
+Shiva        bowled      Faizan    1    
+Asanka       c Kaleem    Ram      39       
+Yohan        lbw         Siva      0       
+Rohan        c Kaleem    Siva      5       
+Amit         run out              39    
+Hamish       not out               5
+Shawn        not out               1   
+Extras          1b,1lb,3b, 62w    67 
+             TOTAL               207 for 7 after 38 overs
+
+          O   M    R   W  wd  nb
+Kaleem    3   0   11   0   3    
+Nawab     8   1   28   2   4    
+Asheesh   3   0   12   0   5    
+Laurence  4   0   17   0   1    
+Faizan    7   1   28   0   8    
+Suraj     4   0   32   0   1    
+Siva      7   0   35   3   3    
+Karthik   2   0   20   0   1  3 
+Ram       2   0   12   1   8    
+
+Innings of London C.C.     
+                                 Runs  4  6
+Suraj        bowled      Hamish    9        
+Ram          c           Shawn     2
+Vasu         lbw         Asanta    8
+Chintan      bowled      Hamish    8   1
+Laurence     bowled      Hamish    3
+Karthik      bowled      Yohan     3       
+Kaleem       c           Yohan    21   2
+Siva         c           Rohan    29   2  1
+Faizan       c           Rohan    12   1   
+Ashish       c           Chris     2
+Nawab        not out               3
+Extras                            25
+             TOTAL               125 all out after 33 overs
+
+          O   M    R   W  wd  nb
+Shawn     6   1   16   1   6   1
+Chris     8   1   21   1   5   0
+Asanta    4   0   22   2   1   1
+Hamish    4   0   22   0   2   0
+Yohan     5   0   21   2   2   3
+Rohan     6   0   21   1   2   0
+
+

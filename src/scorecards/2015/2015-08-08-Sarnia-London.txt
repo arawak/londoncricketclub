@@ -1,0 +1,62 @@
+SCC batting
+Bat          Out/ Bowler        Runs/Balls
+
+Krish       CT /Siva                44   /  59
+Sohoub    B /Kevin               00   /  05
+Anas        B /Kevin               05   /   07
+Abishek   B /Hareen             09   /  13
+Kabir      CT  /Jerad             03   /  22
+Thiru         Run Out              46  /   42
+Talal       LBW /Siva              00  /  01
+Kamaran  CT /Kevin             01  /  04
+Jigar         CT/ john               04  /  13
+Maaz         CT /Siva              01  /  06
+Gokul        Not Out               00  /  00
+
+                   Wides           25
+                   No-balls       02
+                   L-byes          05
+                     Byes           00
+        SCC   (29.3 overs) 145/10
+
+LCC bowling
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Kevin        06    /00 /00 /05 / 22 / 03
+John         04    /00 /01 /06 / 17 / 01
+Hareen      06   /00 /00 /07 / 25 / 01
+Jerad        06   /00 /00 /04 / 31 / 01
+Nawab      02   /00 /00 /02 / 15 / 00
+Siva          5.3  /00 /01 /02 / 31 / 03
+
+
+LCC batting
+Bat          Out/ Bowler        Runs/Balls
+
+Ram         Run Out              02  /  05
+Jerad        B /Talal               29  /  48
+Sean        CT /Abi-              08  /  26
+Laurance  B /Abi-               03  /  06
+Rajath      B /Gokul             00  /  08
+Kevin       B /Gokul             00  /  02
+Hareen    B /Abi-                21  /  29
+Siva         CT /Ram             05  /  07
+John         CT /Ram            10  /  22
+Steve        Not Out             11  /  18
+Nawab     CT /Abi-             06  /  07
+
+                    Wides           32
+                    N-balls          02
+                    L-byes          04
+                     Byes            04
+         LCC (29.2 overs)    137/ 10
+
+SCC  bowling
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Kamran      06   /00 /01 /08 / 31 / 00
+Talal           05   /00 /04 /06 / 29 / 00
+Ram           06   /00 /00 /08 / 17 / 02
+Gokul         06   /01 /02 /03 / 20 / 03
+Abishek     5.2   /00 /00 /06 / 27 / 04
+Krish          01   /00 /00 /00 / 05 / 00

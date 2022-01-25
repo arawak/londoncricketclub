@@ -1,0 +1,65 @@
+LCC won the toss and elected to bowl.
+
+ARCC batting
+Bat          Out/ Bowler        Runs/Balls
+
+Anil         B /Hareen              09   /  ??
+Bhavesh   LBW /Hareen       14   /  ??
+Rajan        CT /Richard         00   /  ??
+Gagan        CT /Richard        02   /  ??
+Lomesh    CT /yaswanth       07   /  ??
+Dinesh      CT  /Manish         13  /  ??
+Adnan       B /Richard           04   /  ??
+Randy      CT  /manish          04  /  ??
+Sunny      CT  /Siva               02  /  ??
+Kirit              Not out             04  /  ??
+Riten           Run out              10  /  ??
+
+                   Wides           33
+                   No-balls       04
+                   L-byes          01
+                     Byes           08
+        ARCC  all out for    126
+
+LCC bowling
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Manish      06    /00 /01 /10 / 26 / 02
+Richie        03    /00 /00 /05 / 21 / 00
+Hareen      05    /01 /00 /16 / 22 / 02
+Richard     06    /00 /01 /02 / 13 / 03
+Yaswanth  02    /00 /00 /05 / 11 / 01
+Siva           06    /00 /01 /04 / 24 / 01
+Ramiz        0.4   /00 /00 /01 / 09 / 00
+
+LCC batting
+Bat          Out/ Bowler        Runs/Balls
+
+Pawha     LBW /Sunny        00  /  03
+Ram       B   / sunny            12  /  16
+Richie    CT / Randy            00  /  10
+Richard   CT / Adnan          21  /  28
+Ramiz     CT / Riten            11  /  24
+Suraj      CT / Adnan           09  /  18
+Rajath     CT / Riten            00  /  01
+Hareen     Not Out              25  /  18
+John      LBW / Adnan        10  /  08
+Siva        CT / Riten            12  /  19
+Yaswanth  Not Out             00  /  03
+
+                    Wides           24
+                    N-balls          01
+                    L-byes          01
+                     Byes            01
+         LCC (27.4overs)     127/ 9
+
+ARCC bowling
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Sunny        06    /00 /00 /04 / 11 / 02
+Bawesh     2.4   /00 /01 /04 / 24 / 00
+Randy        06   /00 /00 /04 / 25 / 01
+Jibran         03   /00 /00 /05/ 25 / 00
+Riten          04   /00 /00 /03 / 28 / 03
+Adnan        06   /00 /00 /04 / 09 / 03
+

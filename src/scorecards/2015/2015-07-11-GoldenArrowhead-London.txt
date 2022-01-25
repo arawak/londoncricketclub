@@ -1,0 +1,65 @@
+LCC won the toss and elected to bat.
+
+LCC batting
+Bat          Out/ Bowler        Runs/Balls
+
+Jerad        CT /Vasav             14   /  22
+Richie         B  /Vasav            55   /  78
+Ian             B  /Mitty               01   /  07
+Vignesh     CT /Nasir             04   /  13
+Chinthan   CT /Nasir              04   /  03
+Hareen       Not out                86   /  38
+John          Not out                 18  /  06
+Ram              DNB
+Siva              DNB
+Yaswanth      DNB
+Antonio         DNB
+
+
+                  Wides           21
+                  No-balls        00
+                  L-byes          00
+                   Byes            02
+          LCC (30 overs)    203 / 5
+
+Golden Arrowhead bowling
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Johnny       06    /00 /00 /01 / 38 / 00
+Vasav         06    /00 /00 /04 / 24 / 02
+Mitty           05   /00 /00 /05 / 35 / 01
+U.B             06   /00 /00 /08 / 30 / 00
+Nasir          05    /00 /00 /02 / 41 / 02
+Sarabjit      02   /00 /00 /02 / 33  / 00
+
+Golden Arrowhead batting
+Bat          Out/ Bowler        Runs/Balls
+
+Sarabjit     B /Richie             10  /  ??
+Franklin   CT /Yaswanth       41  /  ??
+Nasib     CT /Yaswanth        14  /  ??
+U.B             B /siva               22  /  ??
+Vivar         Run out               20  /  ??
+Mitty           B /siva               31  /  ??
+Lachan      CT /siva              00  /  ??
+Vasab          Not out             12  /  ??
+Bala            Not out              04  /  ??
+Johnny          DNB
+Cliffe             DNB
+
+                   Wides           08
+                   N-balls          00
+                   L-byes          00
+                    Byes            04
+       Golden Arrowhead (30 overs)     143/ 7
+
+LCC bowling
+Bowler     Overs/M /NB /Wd /run/ wkt
+
+Jerad         04    /00 /00 /02 / 11 / 00
+Richie        06    /00 /00 /00 / 34 / 01
+Hareen      05    /01 /00 /01 / 14 / 00
+Yaswanth   06   /00 /00 /02 / 26 / 02
+Siva           06    /00 /00 /02 / 31 / 03
+John          02    /00 /00 /00 / 14 / 00
+Antonio     01    /00 /00 /01 / 09 / 00

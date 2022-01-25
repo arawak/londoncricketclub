@@ -8,7 +8,7 @@ header {
 }
 
 .navbar-default {
-    background-color: #800020;
+    background-color: #003255;
     border-color: #4A79A5;
     border-bottom-width: 7px;
     font-family: 'Changa One', cursive;
@@ -56,3 +56,8 @@ color: #4A79A5;
 margin-top: 25px;
 margin-top: 25px;
 }
+
+.img-center {margin:0 auto;}
+
+.cycle-slideshow { width: 100% }
+.cycle-slideshow img { width: 100%; height: auto }

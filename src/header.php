@@ -12,6 +12,16 @@
             <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
     <link href="css/styles.css" rel="stylesheet">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-27947239-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-27947239-2');
+    </script>
 </head>
 
 <body>
@@ -31,34 +41,37 @@
                     <li><a href="/executive.php">Executive</a></li>
                     <li><a href="/constitution.php">Constitution</a></li>
                     <li><a href="/regulations.php">Regulations</a></li>
-                    <li><a href="http://goo.gl/forms/LqzfgrrBoZ">Sign up</a></li>
-                </ul>
+<!--                    <li><a href="http://goo.gl/forms/LqzfgrrBoZ">Sign up</a></li>
+    -->            </ul>
             </nav>
+
         </div>
     </header><!-- Begin Body -->
 
     <div class="container">
         <div class="row">
             <div class="col-md-3" id="leftCol">
-                <div class="sponsor"><img src="img/lcc-logo-200.png" /></div>
+                <div class="sponsor"><img src="img/logo.png" /></div>
                 <h3>Our Sponsors</h3>          
+                <div class="sponsor">
+<a href="http://www.vianafamilydentist.com"><img src="img/viana.png" /></a>
+                </div>
+<!--
                 <div class="sponsor">
 <a href="http://www.cibcwg.com/web/okanskifinancialgroup"><img src="img/okanski.jpg" /></a>
                 </div>
                 <div class="sponsor">
-<a href="http://www.nicholsonsheffield.ca">
-<img src="img/nsa.jpg" alt="Nicholson Sheffield Architects" /></a>
+<a href="https://www.londonhydro.com"><img src="img/hydro.png" /></a>
                 </div>
                 <div class="sponsor1">
-<a href="http://www.ago1.com/"><img src="img/ago.jpg" /></a>
+<a href="http://www.deveng.net/"><img src="img/development-engineering.png" /></a>
                 </div>
-
-                <div class="sponsor">
-<a href="http://noteworthywines.ca"><img src="img/noteworthy.png" /></a>
+-->
+                <div class="sponsor1">
+<a href="http://www.michaelclark.construction"><img src="img/mcc.png" /></a>
                 </div>
-
-                <div class="sponsor">
-<a href="http://rajafinedining.ca"><img src="img/rajalondon.gif" /></a>
+                <div class="sponsor1">
+<a href="http://www.playitagainsportslondon.com"><img alt="Play It Again Sports" src="img/playitagain.jpg" /></a>
                 </div>
-            </div>
+           </div>
             <div class="col-md-9">
