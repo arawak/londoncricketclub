@@ -39,7 +39,6 @@
                     <li><a href="/#contact">Contact</a></li>
                     <li><a href="/fixtures.php">Fixtures</a></li>
                     <li><a href="/executive.php">Executive</a></li>
-                    <li><a href="/constitution.php">Constitution</a></li>
                     <li><a href="/regulations.php">Regulations</a></li>
 <!--                    <li><a href="http://goo.gl/forms/LqzfgrrBoZ">Sign up</a></li>
     -->            </ul>

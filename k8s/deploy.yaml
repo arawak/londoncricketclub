@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lcc
+  labels:
+    app: lcc
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: lcc
+  template:
+    metadata:
+      labels:
+        app: lcc
+    spec:
+      containers:
+      - name: lcc
+        image: arawak/londoncricketclub:latest
+        ports:
+        - containerPort: 80
