@@ -14,28 +14,28 @@ Join by completing <a href="https://goo.gl/forms/1lsYeD8E4IA2wQVL2">the registra
 <div><a href="https://forms.gle/6MLkvbSGMK1nNC2G6" alt="click to register"><img src="img/register.png" class="img-responsive img-center" /></a></div>
                 <hr>
 <div class="cycle-slideshow" data-cycle-speed="4000">
-    <img src="http://londoncricketclub.ca/photos/019.jpg">
-    <img src="http://londoncricketclub.ca/photos/023.jpg">
-    <img src="http://londoncricketclub.ca/photos/001.jpg">
-    <img src="http://londoncricketclub.ca/photos/003.jpg">
-    <img src="http://londoncricketclub.ca/photos/002.jpg">
-    <img src="http://londoncricketclub.ca/photos/004.jpg">
-    <img src="http://londoncricketclub.ca/photos/007.jpg">
-    <img src="http://londoncricketclub.ca/photos/012.jpg">
-    <img src="http://londoncricketclub.ca/photos/009.jpg">
-    <img src="http://londoncricketclub.ca/photos/010.jpg">
-    <img src="http://londoncricketclub.ca/photos/011.jpg">
-    <img src="http://londoncricketclub.ca/photos/022.jpg">
-    <img src="http://londoncricketclub.ca/photos/013.jpg">
-    <img src="http://londoncricketclub.ca/photos/014.jpg">
-    <img src="http://londoncricketclub.ca/photos/015.jpg">
-    <img src="http://londoncricketclub.ca/photos/016.jpg">
-    <img src="http://londoncricketclub.ca/photos/005.jpg">
-    <img src="http://londoncricketclub.ca/photos/017.jpg">
-    <img src="http://londoncricketclub.ca/photos/020.jpg">
-    <img src="http://londoncricketclub.ca/photos/006.jpg">
-    <img src="http://londoncricketclub.ca/photos/021.jpg">
-    <img src="http://londoncricketclub.ca/photos/008.jpg">
+    <img src="/photos/019.jpg">
+    <img src="/photos/023.jpg">
+    <img src="/photos/001.jpg">
+    <img src="/photos/003.jpg">
+    <img src="/photos/002.jpg">
+    <img src="/photos/004.jpg">
+    <img src="/photos/007.jpg">
+    <img src="/photos/012.jpg">
+    <img src="/photos/009.jpg">
+    <img src="/photos/010.jpg">
+    <img src="/photos/011.jpg">
+    <img src="/photos/022.jpg">
+    <img src="/photos/013.jpg">
+    <img src="/photos/014.jpg">
+    <img src="/photos/015.jpg">
+    <img src="/photos/016.jpg">
+    <img src="/photos/005.jpg">
+    <img src="/photos/017.jpg">
+    <img src="/photos/020.jpg">
+    <img src="/photos/006.jpg">
+    <img src="/photos/021.jpg">
+    <img src="/photos/008.jpg">
 </div>
 <div>
 <hr>
